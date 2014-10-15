@@ -10,5 +10,7 @@ This ctw.csv file can be imported easily into statistical packages like R, SAS o
 Files in this repo
 * readme.md      (this file)
 * ctw.csv        (the merged data)
-* code_book.rtf  (a simple code book with definitions of the column names)   
+* code_book.rtf  (a simple code book with definitions of the column names)
+
+**Note** Some the columns in ctw.csv file have missing data, these missing data are coded as NA.   
 
