@@ -4,8 +4,8 @@ CTWdata
 The University of Leiden teaches a course [Configuring the world](https://www.coursera.org/course/configuringworld "link to configuringworld") on the Cousera platform.
 Central in this course are six spreadsheets with data describing the state of 153 countries.
 
-In this repo the data scattered over these six spreadsheets are merged into one .csv file.
-This ctw.csv file can be imported into statistical packages like R, SAS or SPSS.
+The data scattered over these six spreadsheets were merged into one .csv file.
+This file can be imported into statistical packages like R, SAS or SPSS.
 
 Files in this repo
 * readme.md      (this file)
