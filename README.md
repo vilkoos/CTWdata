@@ -29,5 +29,11 @@ ISO maintains a list of official country codes and names. The file cIDs.csv (cou
 
 The [Gapminder](http://www.gapminder.org/data/ "GAP data") project is a rich source of data. It uses standard [display names to identify countries](http://www.gapminder.org/documentation/documentation/formal-list-of-areas.xlsx "GAP display names"). The file gapCID.csv contains a database of these names and corresponding ISO codes (only countries that have ISO codes are listed).
 * gapCID.csv (database of Gapminder display names and their ISO codes)
- 
+
+---------
+
+# Example of ctw.csv use
+
+In ctw_example_using_Python.ipynb you can find an example of how the ctw.csv data can be used for data analysis in Python.
+
 
