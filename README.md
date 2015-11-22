@@ -32,8 +32,9 @@ The [Gapminder](http://www.gapminder.org/data/ "GAP data") project is a rich sou
 
 ---------
 
-# Example of ctw.csv use
+## Example of ctw.csv use
 
-In ctw_example_using_Python.ipynb you can find an example of how the ctw.csv data can be used for data analysis in Python.
+The file ctw_example_using_Python.ipynb gives an example of how the ctw.csv data can be used for data analysis in Python. 
+**Note that this file is viewable on gitHub.**
 
 
